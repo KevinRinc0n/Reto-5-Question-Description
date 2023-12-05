@@ -1,0 +1,14 @@
+C:\Users\kevin\Desktop\Reto-5-Question-Description\bin\Debug\net7.0\Reto-5-Question-Description.exe
+C:\Users\kevin\Desktop\Reto-5-Question-Description\bin\Debug\net7.0\Reto-5-Question-Description.deps.json
+C:\Users\kevin\Desktop\Reto-5-Question-Description\bin\Debug\net7.0\Reto-5-Question-Description.runtimeconfig.json
+C:\Users\kevin\Desktop\Reto-5-Question-Description\bin\Debug\net7.0\Reto-5-Question-Description.dll
+C:\Users\kevin\Desktop\Reto-5-Question-Description\bin\Debug\net7.0\Reto-5-Question-Description.pdb
+C:\Users\kevin\Desktop\Reto-5-Question-Description\obj\Debug\net7.0\Reto-5-Question-Description.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Reto-5-Question-Description\obj\Debug\net7.0\Reto-5-Question-Description.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Reto-5-Question-Description\obj\Debug\net7.0\Reto-5-Question-Description.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Reto-5-Question-Description\obj\Debug\net7.0\Reto-5-Question-Description.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Reto-5-Question-Description\obj\Debug\net7.0\Reto-5-Question-Description.dll
+C:\Users\kevin\Desktop\Reto-5-Question-Description\obj\Debug\net7.0\refint\Reto-5-Question-Description.dll
+C:\Users\kevin\Desktop\Reto-5-Question-Description\obj\Debug\net7.0\Reto-5-Question-Description.pdb
+C:\Users\kevin\Desktop\Reto-5-Question-Description\obj\Debug\net7.0\Reto-5-Question-Description.genruntimeconfig.cache
+C:\Users\kevin\Desktop\Reto-5-Question-Description\obj\Debug\net7.0\ref\Reto-5-Question-Description.dll
